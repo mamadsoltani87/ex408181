@@ -38,8 +38,3 @@ $circle = new Circle(9);
 echo "Rectangle Area: " . $rectangle->area() . " " . Shape::UNIT . "<br>";
 echo "Circle Area: " . $circle->area() . " " . Shape::UNIT . "<br>";
 ?>
-
-
-
-git config --global user.email "mohammad.mahdi.mms1401@gmail.com"
-git config --global user.name "mamad"   
